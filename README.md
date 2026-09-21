@@ -27,7 +27,9 @@ This project demonstrates how to deploy a simple web application on AWS EC2 usin
 
 ## Project Architecture
 
-User → Internet → AWS EC2 → Nginx → Web Application
+## Project Architecture
+
+![AWS Cloud Architecture](aws-cloud-architecture.png)
 
 ## Result
 
