@@ -15,7 +15,7 @@ heading **"Welcome to My Cloud Project"**.
 
 -   **GitHub repository:**
     https://github.com/nandini-cloudops/aws-cloud-web-deployment
--   **EC2 website:** `http://YOUR-EC2-PUBLIC-IP`
+-   **EC2 website:** http://13.51.205.102
 
 Replace `YOUR-EC2-PUBLIC-IP` with the current Public IPv4 address of
 your EC2 instance. The public IP can change if the instance is stopped
